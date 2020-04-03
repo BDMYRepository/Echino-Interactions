@@ -24,5 +24,5 @@ Esto es parte de la investigación de laboratorio de BDMY (Biodiversidad Marina 
 Para más información visite http://github.com/globalbioticinteractions.
 
 
-Por favor, cite este conjunto de datos como: "Soleto-Casas RC y Simões N (2020). Invertebrados parasitarios y comensales de equinodermos del Atlántico tropical y subtropical americano extraídos manualmente de la literatura".
+Por favor, cite este conjunto de datos como: "Soleto-Casas RC y Simões N (2020). Invertebrados parasitarios y comensales de equinodermos del Atlántico Tropical y Subtropical Americano extraídos manualmente de la literatura".
 
