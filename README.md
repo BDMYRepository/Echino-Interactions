@@ -11,7 +11,7 @@ Please, cite this data set as: "Soleto-Casas RC and Simões N (2020). Parasitic 
 
 See http://github.com/globalbioticinteractions for more information.
 
-DOI: https://zenodo.org/badge/latestdoi/201550751
+DOI: [![DOI](https://zenodo.org/badge/201550751.svg)](https://zenodo.org/badge/latestdoi/201550751)
 ----------------------------
 ¡¡Saludos queridos amantes de los equinodermos!!
 
@@ -25,4 +25,4 @@ Por favor, cite este conjunto de datos como: "Soleto-Casas RC y Simões N (2020)
 
 Para más información visite http://github.com/globalbioticinteractions.
 
-DOI: https://zenodo.org/badge/latestdoi/201550751
+DOI: [![DOI](https://zenodo.org/badge/201550751.svg)](https://zenodo.org/badge/latestdoi/201550751)
