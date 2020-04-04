@@ -1,7 +1,7 @@
 # Echino-Interactions
 Hello dear echinolovers!!
 
-This repository harbor a data set with historical reports about parasitic and commensal invertebrates of echinoderms from American Tropical And Subtropical Atlantic, including fish and invertebrates. 
+This repository harbor a data set with historical reports about parasitic and commensal of echinoderms from American Tropical And Subtropical Atlantic, including fish and invertebrates. 
 
 Data extracted to index papers and historical reports since 1884 to 2020. 
 
@@ -15,7 +15,7 @@ DOI: [![DOI](https://zenodo.org/badge/201550751.svg)](https://zenodo.org/badge/l
 ----------------------------
 ¡¡Saludos queridos amantes de los equinodermos!!
 
-Este repositorio alberga un conjunto de datos con informes históricos sobre invertebrados parasitarios y comensales de equinodermos del Atlántico Tropical y Subtropical Americano, incluidos peces e invertebrados.
+Este repositorio alberga un conjunto de datos con informes históricos sobre parasitarios y comensales de equinodermos del Atlántico Tropical y Subtropical Americano, incluidos peces e invertebrados.
 
 Datos extraídos de documentos indexados e informes históricos desde 1884 hasta 2020.
 
