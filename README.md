@@ -21,8 +21,6 @@ Datos extraídos de documentos indexados e informes históricos desde 1884 hasta
 
 Esto es parte de la investigación de laboratorio de BDMY (Biodiversidad Marina de Yucatán), y fue apoyado por una beca posdoctoral de la Universidad Nacional Autónoma de México.
 
-Para más información visite http://github.com/globalbioticinteractions.
-
-
 Por favor, cite este conjunto de datos como: "Soleto-Casas RC y Simões N (2020). Invertebrados parasitarios y comensales de equinodermos del Atlántico Tropical y Subtropical Americano extraídos manualmente de la literatura".
 
+Para más información visite http://github.com/globalbioticinteractions.
