@@ -5,7 +5,7 @@ This repository harbor a data set with historical reports about parasitic and co
 
 Data extracted to index papers and historical reports since 1884 to 2020. 
 
-This is part of BDMY(Biodiversidad Marina de Yucatan) lab research, and was support by a post-doctoral  fellowship by Universidad Nacional Autónoma de México.
+This is part of BDMY(Biodiversidad Marina de Yucatan) lab research, and was support by a post-doctoral  fellowship by Programa de Becas Posdoctorales, UNAM 2019 (POSDOC), in charge by Dirección General de Asuntos del Personal Académico (DGPA).
 
 Please, cite this data set as: "Soleto-Casas RC and Simões N (2020). Parasitic and commensal invertebrates of echinoderms from American Tropical And Subtropical Atlantic manually extracted from literature."
 
