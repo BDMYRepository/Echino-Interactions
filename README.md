@@ -19,7 +19,7 @@ Este repositorio alberga un conjunto de datos con informes históricos sobre par
 
 Datos extraídos de documentos indexados e informes históricos desde 1884 hasta 2020.
 
-Esto es parte de la investigación de laboratorio de BDMY (Biodiversidad Marina de Yucatán), y fue apoyado por una beca posdoctoral de la Universidad Nacional Autónoma de México.
+Esto es parte de la investigación de laboratorio de BDMY (Biodiversidad Marina de Yucatán), y fue apoyado por una beca posdoctoral del Programa de Becas Posdoctorales, UNAM 2019 (POSDOC), a cargo de la Dirección General de Asuntos del Personal Académico (DGPA).
 
 Por favor, cite este conjunto de datos como: "Soleto-Casas RC y Simões N (2020). Invertebrados parasitarios y comensales de equinodermos del Atlántico Tropical y Subtropical Americano extraídos manualmente de la literatura".
 
